@@ -1,5 +1,11 @@
 My Patika Profile: https://app.patika.dev/mtarikg
 
+### Transaction Images
+
+![web3Fundamentals1](https://user-images.githubusercontent.com/74410797/164088426-476f48c0-dcf8-4ad2-9106-aec28b58bcf6.png)
+![web3Fundamentals2](https://user-images.githubusercontent.com/74410797/164088440-47a875cc-6860-4383-987a-c93b8b75baa3.png)
+
+
 # `near-sdk-as` Starter Kit
 
 This is a good project to use as a starting point for your AssemblyScript project.
